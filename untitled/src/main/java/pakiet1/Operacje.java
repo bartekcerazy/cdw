@@ -1,3 +1,4 @@
+
 package pakiet1;
 
 public class Operacje {
@@ -13,3 +14,6 @@ public class Operacje {
         return a * b;
     }
 }
+
+
+//operacja
