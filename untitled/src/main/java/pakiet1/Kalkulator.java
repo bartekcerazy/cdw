@@ -1,5 +1,5 @@
 package pakiet1;
-\\klasa kalkulatora
+//klasa kalkulatora
 public class Kalkulator {
     private final Operacje operacje;
 
