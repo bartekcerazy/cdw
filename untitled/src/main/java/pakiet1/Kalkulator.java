@@ -1,7 +1,7 @@
 package pakiet1;
 
 public class Kalkulator {
-    private Operacje operacje;
+    private final Operacje operacje;
 
     public Kalkulator() {
         operacje = new Operacje();
