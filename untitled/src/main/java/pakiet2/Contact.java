@@ -9,10 +9,20 @@ public class Contact {
         this.phoneNumber = phoneNumber;
     }
 
+    /**
+     * Zwraca imię kontaktu.
+     *
+     * @return imię kontaktu
+     */
     public String getName() {
         return name;
     }
 
+    /**
+     * Zwraca numer telefonu kontaktu.
+     *
+     * @return numer telefonu kontaktu
+     */
     public String getPhoneNumber() {
         return phoneNumber;
     }
