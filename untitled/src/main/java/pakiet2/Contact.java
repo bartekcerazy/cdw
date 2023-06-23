@@ -1,12 +1,8 @@
 package pakiet2;
 
-import java.util.ArrayList;
-import java.util.List;
-import java.util.Scanner;
-
-Public class Contact {
-    private String name;
-    private String phoneNumber;
+public class Contact {
+    private final String name;
+    private final String phoneNumber;
 
     public Contact(String name, String phoneNumber) {
         this.name = name;
