@@ -1,6 +1,6 @@
 
 package pakiet1;
-
+//operacje
 public class Operacje {
     public double dodaj(double a, double b) {
         return a + b;
@@ -16,4 +16,3 @@ public class Operacje {
 }
 
 
-//operacja
